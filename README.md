@@ -75,8 +75,8 @@
 ## Redes Sociales
 
 [![Facebook](img/facebook.webp)](#)
-[![Instagram](https://www.instagram.com/jorgesr1317/)](https://www.instagram.com/jorgesr1317/)
-[![X](https://x.com/snchez_ruiz/)](https://x.com/snchez_ruiz/)
+[![Instagram](img/instagram.webp)](https://www.instagram.com/jorgesr1317/)
+[![X](img/x.webp)](https://x.com/snchez_ruiz/)
 
 ---
 
