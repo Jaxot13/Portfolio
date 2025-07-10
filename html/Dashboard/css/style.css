@@ -1,0 +1,1 @@
+aside,main{padding:20px}aside{background-color:#00f;width:200px;position:fixed;height:100vh;overflow-y:auto}aside h2{color:#ecf0f1}main{flex:1;background-color:#ecf0f1;display:flex;flex-wrap:wrap;gap:20px;margin-left:250px}.card{background-color:#fff;border-radius:10px;box-shadow:0 2px 5px rgba(0,0,0,.1);padding:15px;width:400px}canvas{max-width:100%}
