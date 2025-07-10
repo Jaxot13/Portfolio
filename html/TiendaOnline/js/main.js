@@ -1,0 +1,1 @@
+let saldo=750;function carrito1(o,a,d){saldo-=o,alert("Has añadido el producto "+a+" de la talla "+d+", le queda "+saldo+"€ de saldo");document.getElementById("visual").innerHTML=`\n    <h3>Datos de compra y saldo:</h3>\n    <p><strong>Producto <strong>${a} comprado.</p>\n    <p><strong>Tu saldo total es: <strong>${saldo}</p>\n    `}
