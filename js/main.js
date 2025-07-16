@@ -1,0 +1,1 @@
+function alerta(){alert("Mensaje enviado corréctamente")}function implementado(){alert("No implementado")}function btn(n){window.location.href=n}function btn2(n){window.location.href="https://"+n}function isla(){window.location.href="Juego.rar",alert("Descargando...")}
